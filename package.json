@@ -1,0 +1,23 @@
+{
+  "name": "npm-tutorial",
+  "version": "0.0.1",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "konishi",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/meriyasu/npm-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meriyasu/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/meriyasu/npm-tutorial"
+}
